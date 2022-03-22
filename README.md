@@ -1,13 +1,13 @@
 ## Welcome to my ePortfolio
 
-### Software design and engineering
-This video is a code-review of a project that I created in previous class. 
+### Code Review
+This video is a code-review of two projects. I review the code and go identify some enhancements that I wish to make. These enhancements will be showcased below. 
 
 (VIDEO HERE)
 
 
 
-
+### Software design and engineering
 
 
 
