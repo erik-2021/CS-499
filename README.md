@@ -9,6 +9,7 @@ This video is a code-review of two projects. I review the code and go identify s
 
 ### Software design and engineering
 	OpenGL CS-330 Project
+	
      The artifact that I am choosing to use for this portion of my ePortfolio is from an assignment for CS-330 (comp graphic and visualization); this was created last term. This is a C++ project that utilizes OpenGL to render a 3D shape. This artifact is a great choice for my ePortfolio because it showcases multiple different skills. The project is written in C++, so it shows a high level of understanding of this language and how it functions. Using OpenGL shows many skills such as importing and using libraries, using external input to control the camera, and texturing objects in a 3D world. 
 	
   This artifact was improved by adding texture to a pyramid which previously just had predefined colors. This required quite a bit of modification to the existing code. The vertex shader and fragment shader had to be modified to accept a texture. The texture had to be loaded from a file, and the shape mesh data had to be modified to accept texture coordinates instead of colors. The render function also had to be modified to bind the texture to the pyramid being displayed.  
