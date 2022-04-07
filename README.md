@@ -15,6 +15,8 @@ The artifact that I am choosing to use for this portion of my ePortfolio is from
 The modifications that I made do meet the course objectives; these were the enhancements that I planned to complete for this project. As of now, I don’t have any updates to my outcome-coverage plans since I was able to make all of the changes that I planned. However, I will reevaluate this when I’m completing other projects. If I find that I have inadequate coverage, I will write about these areas in my self-assessment as outlined in the final project rubric. 
 
   I did learn quite a bit when enhancing this project. I learned how to modify both the vertex and fragment shader code. I then learned how to locate and load an appropriate texture image file. This was challenging to me since many of the images didn’t look professional when applied to the pyramid; I had to find a high-quality image that worked well. I also learned how to modify the shapes mesh data and attrib pointers. This was also challenging to me, since I had to make a lot of changes without being able to test anything until it was completed; I was finally able to get it working after fixing multiple minor mistakes. Everything that I’ve learned in this project will be a great fit for my ePortfolio! 
+  
+
 
 
 ### Algorithm and Data Structures
@@ -25,6 +27,8 @@ I believe that this artifact is a good choice for my ePortfolio to showcase my s
 This project does successfully incorporate all of the enhancements that were planned earlier in the course for my ePortfolio. Since this was thoroughly planned out, I don’t think I’ll need to make any changes for my outcome-coverage plans. I will make any changes if the instructor has suggestions to further improve the project. The enhancements made to this project will fulfill the requirements of the course, and they will showcase my skills as a software developer.  
 
 I enjoyed adding these enhancements to this project. While I already knew what hashing was, I had to figure out how to make it work with python on sqlite3. I did struggle when I was trying to read the password from the database to decrypt it. I kept getting datatype errors and didn’t understand why. I figured out that when I retrieved the password from the database, it was getting returned in a tuple. I didn’t realize this, and the decryption algorithm was throwing errors because it wanted a datatype of bytes. Once I realized this, I was able to retrieve the byte data from the tuple and send that to the decryption algorithm. 
+
+ View Project: https://github.com/erik-2021/CS-499/tree/main/Employee_App
 
 
 ### Database
@@ -37,6 +41,7 @@ This project does meet the course objectives that I planned out in the early sta
 
 I had to refresh my memory on how SQL wanted queries written to interact with the database. This was a small challenge at first, since create, read, update, and delete are all handled slightly different (Python Docs, n.d.). However, after some research I was able to successfully complete all of the queries. I manually verified in the database that the correct changes were being made. I now feel much more confident with my SQL skills since I’ve overcame these challenges. 
 
+View Project: https://github.com/erik-2021/CS-499/tree/main/Employee_App
 
 
 ## TODO: DELETE BELOW
