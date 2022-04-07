@@ -16,7 +16,7 @@ The modifications that I made do meet the course objectives; these were the enha
 
   I did learn quite a bit when enhancing this project. I learned how to modify both the vertex and fragment shader code. I then learned how to locate and load an appropriate texture image file. This was challenging to me since many of the images didn’t look professional when applied to the pyramid; I had to find a high-quality image that worked well. I also learned how to modify the shapes mesh data and attrib pointers. This was also challenging to me, since I had to make a lot of changes without being able to test anything until it was completed; I was finally able to get it working after fixing multiple minor mistakes. Everything that I’ve learned in this project will be a great fit for my ePortfolio! 
   
-
+View Project: https://github.com/erik-2021/CS-499/tree/main/OpenGL%20Project
 
 
 ### Algorithm and Data Structures
