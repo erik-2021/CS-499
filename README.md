@@ -25,6 +25,7 @@ This  video is a code review that I made. The code review is from the artifacts 
 
 
 
+
 ### Software design and engineering
 
 The artifact that I am choosing to use for this portion of my ePortfolio is from an assignment for CS-330 (comp graphic and visualization); this was created last term. This is a C++ project that utilizes OpenGL to render a 3D shape. This artifact is a great choice for my ePortfolio because it showcases multiple different skills. The project is written in C++, so it shows a high level of understanding of this language and how it functions. Using OpenGL shows many skills such as importing and using libraries, using external input to control the camera, and texturing objects in a 3D world. 
