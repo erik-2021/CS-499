@@ -19,8 +19,9 @@ The artifacts that are included below showcase some of my skills that I’ve dev
 ### Code Review
 The link below will take you to a code review that I made. The code review will be from the artifacts below, before any enhancements were made to them. I will point out any issues that I see, and how I plan to fix them. 
 
-[Watch Code Review](youtube.com)
+[Watch Code Review](https://youtu.be/MJ2W3gtf5lc)
 
+<iframe width="560" height="315" src="https://youtu.be/MJ2W3gtf5lc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Software design and engineering
 
