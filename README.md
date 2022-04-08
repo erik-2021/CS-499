@@ -62,6 +62,22 @@ I had to refresh my memory on how SQL wanted queries written to interact with th
 [View Project](https://github.com/erik-2021/CS-499/tree/main/Employee_App)
 
 
+
+### References
+Nweke, B. (2021, June 8). SQL skills (if mastered) will get you better data science opportunities. Medium. Retrieved April 3, 2022, from https://towardsdatascience.com/sql-skills-if-mastered-will-get-you-better-data-science-opportunities-9f912d4f88d3#:~:text=SQL%20is%20used%20by%20over,of%20SQL%20and%20its%20applications. 
+
+Python Docs. (n.d.). SQLITE3 - DB-API 2.0 interface for SQLite databases. sqlite3 - DB-API 2.0 interface for SQLite databases - Python 3.10.4 documentation. Retrieved April 3, 2022, from https://docs.python.org/3/library/sqlite3.html 
+
+
+
+
+
+
+
+
+##
+##
+
 ## TODO: DELETE BELOW
 
 ## Welcome to GitHub Pages
