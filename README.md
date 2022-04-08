@@ -17,11 +17,12 @@ The artifacts that are included below showcase some of my skills that I’ve dev
 
 
 ### Code Review
-The link below will take you to a code review that I made. The code review will be from the artifacts below, before any enhancements were made to them. I will point out any issues that I see, and how I plan to fix them. 
+This  video is a code review that I made. The code review is from the artifacts below, before any enhancements were made to them. I will point out any issues that I see, and how I plan to fix them. 
 
-[Watch Code Review](https://youtu.be/MJ2W3gtf5lc)
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MJ2W3gtf5lc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ### Software design and engineering
