@@ -1,10 +1,25 @@
 ## Welcome to my ePortfolio
 
+## Self Assessment 
+
+My Computer Science education has prepared me for a future career. This ePortfolio showcases some of the important skills that I’ve gained. One of my courses consisted of a group project which required many students to utilize one repository in GitHub together. This course required clear communication to ensure that everyone made changes that wouldn’t conflict with one another. This project made me confident with group projects that include pushing and commiting changes to a shared repository.  
+
+I have found that communicating to stakeholders is another valuable skill to have. It’s very easy to get a very basic understanding of what a stakeholder expects a project to look like. However, what a developer envisions is often different than what the stakeholder is expecting. Issues like this which are caused by poor communication can cause development delays and they can be costly. I have found that spending the extra time in the beginning of a project can save a lot of time and frustrations when a project is complete. 
+ 
+ Data structures and algorithms play a key role in software development. While every programming language uses these slightly different, I’ve become proficient with arrays and lists. I’ve used these to organize large amounts of data which is required in code I’ve written. I can index a specific element of an array to either use or modify the data. I’ve also proficient in many different types of algorithms, such as using hashing algorithms to securely store passwords. 
+
+I also have strong software engineering and database skills. These two skills work well together because I can write code that interacts with a database. This is a very important step in software development since this allows programs to be much more practical. I can read data, modify it, and then save it back into the database. I’ve used this several times in the past including during a course that heavily utilized SQL. 
+
+Security is a very critical aspect to software development, and it’s something that I try to implement every time I write code. I ensure that anytime a password is used to login, it’s not stored in plaintext in a database or a text file. A hashing algorithm can solve this problem very easily. It’s also important to ensure that SQL input is sanitized or coded in a manner that won’t allow a user to input harmful queries. 
+
+The artifacts that are included below showcase some of my skills that I’ve developed during my education at Southern New Hampshire University. The first artifact, which renders 3D images, will show how software design and engineering skills. The second artifact will show my algorithm and data structure skills, and my database skills. This project uses a graphical user interface to allow employees to login and modify their data. The combination of these artifacts will help showcase the skillset that I’ve built while obtaining my Computer Science degree. 
+
+
+
 ### Code Review
-This video is a code-review of two projects. I review the code and go identify some enhancements that I wish to make. These enhancements will be showcased below. 
+The link below will take you to a code review that I made. The code review will be from the artifacts below, before any enhancements were made to them. I will point out any issues that I see, and how I plan to fix them. 
 
 [Watch Code Review](youtube.com)
-
 
 
 ### Software design and engineering
