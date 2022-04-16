@@ -1,6 +1,6 @@
 ## Welcome to my ePortfolio
 
-## Self Assessment 
+### Self Assessment 
 
 My Computer Science education has prepared me for a future career. This ePortfolio showcases some of the important skills that I’ve gained. One of my courses consisted of a group project which required many students to utilize one repository in GitHub together. This course required clear communication to ensure that everyone made changes that wouldn’t conflict with one another. This project made me confident with group projects that include pushing and commiting changes to a shared repository.  
 
