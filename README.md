@@ -35,7 +35,7 @@ The modifications that I made do meet the course objectives; these were the enha
 
   I did learn quite a bit when enhancing this project. I learned how to modify both the vertex and fragment shader code. I then learned how to locate and load an appropriate texture image file. This was challenging to me since many of the images didn’t look professional when applied to the pyramid; I had to find a high-quality image that worked well. I also learned how to modify the shapes mesh data and attrib pointers. This was also challenging to me, since I had to make a lot of changes without being able to test anything until it was completed; I was finally able to get it working after fixing multiple minor mistakes. Everything that I’ve learned in this project will be a great fit for my ePortfolio! 
   
-[View Project](https://github.com/erik-2021/CS-499/tree/main/OpenGL%20Project)
+[Download Project](https://drive.google.com/file/d/1BvPQS5n1rIQ_duI41JmX6TpYzZPmw_Cq/view?usp=sharing)
 
 
 ### Algorithm and Data Structures
@@ -71,51 +71,3 @@ Python Docs. (n.d.). SQLITE3 - DB-API 2.0 interface for SQLite databases. sqlite
 
 
 
-
-
-
-
-
-
-##
-##
-
-## TODO: DELETE BELOW
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/erik-2021/CS-499/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/erik-2021/CS-499/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
