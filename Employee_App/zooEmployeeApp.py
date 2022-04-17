@@ -315,7 +315,6 @@ class AddNewEmployeePage(tk.Frame):
     def __init__(self, parent, controller):
         tk.Frame.__init__(self, parent)
 
-        # TODO: Make max permission level for employees through GUI to prevent giving admin perms
         def add_new_employee():
 
             popup_msg_string = "Employee Added. "
@@ -545,10 +544,3 @@ app = Frames()
 app.mainloop()
 
 
-
-# TODO - REMOVE BEFORE SUBMITTING IN WEEK 7
-# Python Style Guide:
-
-# Reference: https://google.github.io/styleguide/pyguide.html#316-naming
-# module_name, package_name, ClassName, method_name, ExceptionName, function_name, GLOBAL_CONSTANT_NAME, global_var_name, 
-# instance_var_name, function_parameter_name, local_var_name.
